@@ -47,4 +47,5 @@ For the reader, I also hope to post content of a less selfish nature such as exp
 And finally, I leave you with the obvious choice of imagery:
 
 ![Reflections](https://media.giphy.com/media/S31kT3zpR4LNm/giphy.gif)
+
 I’ve never actually given much thought to this line in the song, but wow. Hmm. The answer that comes to mind: “Only when times are good.”
