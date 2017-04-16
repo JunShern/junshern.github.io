@@ -5,9 +5,11 @@ title: Direction
 
 <em>Before I start, let me just set expectations for this post: I don’t have the answers. Writing this is as much an exercise for myself to figure out my perspective as it is to share it, but perhaps this will lead you to a platform to board your own train of thought.</em>
 
-<!-- ![Direction and Magnitude](https://media.giphy.com/media/AteFSuj3Yy1J6/giphy.gif) -->
-<img src="https://media.giphy.com/media/AteFSuj3Yy1J6/giphy.gif" alt="img" style="width: 100%;"/>
-
+<p align="center" style="text-align: center;">
+<img src="https://media.giphy.com/media/AteFSuj3Yy1J6/giphy.gif" style="width: 100%;"/>
+<br/>
+<em>Vector: Direction AND Magnitude</em>
+</p>
 
 Let’s talk about direction.
 
