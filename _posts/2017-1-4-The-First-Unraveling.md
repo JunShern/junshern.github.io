@@ -7,9 +7,9 @@ title: The First Unraveling
 
 I’ve decided to start writing again. This is not a snap decision, not something that I decided to start simply because a new year calls for new ventures (though I must admit I am a sucker for the romantic notion of fresh starts and shiny resolutions). I’ve decided to write again because things inside my head have been tumultuous, to say the least. 
 
-<p align="center" style="text-align: center; float:none;">
+<p align="center" style="text-align: center;">
 <img src='http://cdn.sci-news.com/images/2014/04/image_1881f-Alligator-snapping-turtle.jpg'/>
-
+<br/>
 <em>Here is a snapping turtle. Do all snapping turtles make snap decisions?</em>
 </p>
   
@@ -31,7 +31,7 @@ To tell you the truth, a part of me is actually worried about what I would find 
 
 <p align="center" style="text-align: center; float:none;">
 <img src='http://www.loyarburok.com/wp-content/uploads/2013/08/CensorShip-Im-on-a-boat-take-a-good-hard-look.jpg'>
-
+<br/>
 <em>After I thought of it, I had little doubt that such an image would exist. The Internet does not disappoint.</em>
 </p>
 
@@ -53,9 +53,9 @@ For the reader, I also hope to post content of a less selfish nature such as exp
 
 And finally, I leave you with the obvious choice of imagery:
 
-<p align="center" style="text-align: center; float:none;">
+<p align="center" style="text-align: center;">
 <img src='https://media.giphy.com/media/S31kT3zpR4LNm/giphy.gif'>
-
+<br/>
 <em>I’ve never actually given much thought to this line in the song, but wow. Hmm. The answer that comes to mind: “Only when times are good.”</em>
 </p>
 
