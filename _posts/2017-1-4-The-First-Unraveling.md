@@ -7,7 +7,7 @@ title: The First Unraveling
 
 I’ve decided to start writing again. This is not a snap decision, not something that I decided to start simply because a new year calls for new ventures (though I must admit I am a sucker for the romantic notion of fresh starts and shiny resolutions). I’ve decided to write again because things inside my head have been tumultuous, to say the least. 
 
-<p align="center" style="text-align: center;">
+<p align="center" style="text-align: center; float:none;">
 <img src='http://cdn.sci-news.com/images/2014/04/image_1881f-Alligator-snapping-turtle.jpg'/>
 
 <em>Here is a snapping turtle. Do all snapping turtles make snap decisions?</em>
@@ -29,7 +29,7 @@ I withdrew quite deeply into a shell, and spent a long time being a much differe
 
 To tell you the truth, a part of me is actually worried about what I would find if I were to let myself just type freely and honestly without any internal censorship or editing - I worry that I would hate the person who emerges. Even more so, I worry that my friends would hate the person that emerges. But maybe it is fair to say that I cannot easily separate myself from that internal censorship, and so the censorship is a part of me. So I wonder, is our true self the one that exists before the censor is applied, or after it?
 
-<p align="center" style="text-align: center;">
+<p align="center" style="text-align: center; float:none;">
 <img src='http://www.loyarburok.com/wp-content/uploads/2013/08/CensorShip-Im-on-a-boat-take-a-good-hard-look.jpg'>
 
 <em>After I thought of it, I had little doubt that such an image would exist. The Internet does not disappoint.</em>
@@ -53,7 +53,7 @@ For the reader, I also hope to post content of a less selfish nature such as exp
 
 And finally, I leave you with the obvious choice of imagery:
 
-<p align="center" style="text-align: center;">
+<p align="center" style="text-align: center; float:none;">
 <img src='https://media.giphy.com/media/S31kT3zpR4LNm/giphy.gif'>
 
 <em>I’ve never actually given much thought to this line in the song, but wow. Hmm. The answer that comes to mind: “Only when times are good.”</em>
