@@ -23,7 +23,8 @@ Let’s back up a bit and consider a question which is deceptively difficult to 
 
 How important is it to even choose my direction?
 
-True or False? “Lots of people go through life without ever figuring out their direction. There’s no “A-ha!” moment for most of us, where you suddenly realize that the answer is 42 and understand what to do for the next 60 years of your life (At least Ed’s got it figured out till he’s 70). Therefore, there’s no need to figure out our life’s goals. Instead, we can be satisfied just taking things as they come and making spontaneous decisions at every turn.”
+True or False? 
+> "Lots of people go through life without ever figuring out their direction. There’s no “A-ha!” moment for most of us, where you suddenly realize that the answer is 42 and understand what to do for the next 60 years of your life (At least Ed’s got it figured out till he’s 70). Therefore, there’s no need to figure out our life’s goals. Instead, we can be satisfied just taking things as they come and making spontaneous decisions at every turn.”
 
 You might argue that many people who have had “successful” lives managed to do so without having a direction, at least at the beginning. I can think of many times where I’ve heard an interviewer ask “How did you end up being so successful / getting into this line of work?” and the interviewee answers “It was totally unexpected, actually!”, then spins off into a charming anecdote of how they found themselves in a situation by chance and just went with the currents, never actually making a hard decision to move towards what they’re now successful enough to be interviewed about doing. This is possibly true, but I’ll address this later on. For now, let’s put this aside as I make a case for the opposing view:
 
