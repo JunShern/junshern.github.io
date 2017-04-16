@@ -10,7 +10,7 @@ I’ve decided to start writing again. This is not a snap decision, not somethin
 <p align="center" style="text-align: center;">
 <img src='http://cdn.sci-news.com/images/2014/04/image_1881f-Alligator-snapping-turtle.jpg'/>
 
-*Here is a snapping turtle. Do all snapping turtles make snap decisions?*
+<em>Here is a snapping turtle. Do all snapping turtles make snap decisions?</em>
 </p>
   
 ---
@@ -32,7 +32,7 @@ To tell you the truth, a part of me is actually worried about what I would find 
 <p align="center" style="text-align: center;">
 <img src='https://hopeseguin2010.files.wordpress.com/2010/10/censor-ship_sails1.jpg/'>
 
-*After I thought of it, I had little doubt that such an image would exist. The Internet does not disappoint.*
+<em>After I thought of it, I had little doubt that such an image would exist. The Internet does not disappoint.</em>
 </p>
 
 Then again, I might be just making a mountain out of a molehill. Censor or not, perhaps I am really not all that messed up, and it’s just my over-thinking and habitual dramatic sentence-forming that makes knots out of imaginary rope. 
@@ -56,7 +56,6 @@ And finally, I leave you with the obvious choice of imagery:
 <p align="center" style="text-align: center;">
 <img src='https://media.giphy.com/media/S31kT3zpR4LNm/giphy.gif'>
 
-*After I thought of it, I had little doubt that such an image would exist. The Internet does not disappoint.*
+<em>I’ve never actually given much thought to this line in the song, but wow. Hmm. The answer that comes to mind: “Only when times are good.”</em>
 </p>
 
-I’ve never actually given much thought to this line in the song, but wow. Hmm. The answer that comes to mind: “Only when times are good.”
