@@ -30,7 +30,7 @@ I withdrew quite deeply into a shell, and spent a long time being a much differe
 To tell you the truth, a part of me is actually worried about what I would find if I were to let myself just type freely and honestly without any internal censorship or editing - I worry that I would hate the person who emerges. Even more so, I worry that my friends would hate the person that emerges. But maybe it is fair to say that I cannot easily separate myself from that internal censorship, and so the censorship is a part of me. So I wonder, is our true self the one that exists before the censor is applied, or after it?
 
 <p align="center" style="text-align: center;">
-<img src='https://hopeseguin2010.files.wordpress.com/2010/10/censor-ship_sails1.jpg/'>
+<img src='http://www.loyarburok.com/wp-content/uploads/2013/08/CensorShip-Im-on-a-boat-take-a-good-hard-look.jpg'>
 
 <em>After I thought of it, I had little doubt that such an image would exist. The Internet does not disappoint.</em>
 </p>
