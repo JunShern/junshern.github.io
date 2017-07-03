@@ -224,7 +224,7 @@ nav {
   }
 
   a {
-    margin-left: 20px;
+    margin-left: 10px;
     color: $darkGray;
     text-align: right;
     font-weight: 300;
@@ -233,7 +233,11 @@ nav {
     @include mobile {
       margin: 0 10px;
       color: $blue;
-    }
+    } 
+  }
+
+  i.icon {
+    font-size: 2rem;
   }
 }
 
