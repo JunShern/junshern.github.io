@@ -56,20 +56,7 @@ $(document).ready(function () {
                 ctx.beginPath()
                 ctx.moveTo(canvas.width, 0);
                 ctx.lineTo(0, canvas.height)
-                ctx.stroke();	
-                // Handle resizing
-                window.onresize = function() {
-                    c.width = theDiv.clientWidth;
-                    c.height = theDiv.clientHeight;
-                    ctx.beginPath();
-                    ctx.moveTo(0, 0);
-                    ctx.lineTo(c.width, c.height);
-                    ctx.stroke();
-                    ctx.beginPath();
-                    ctx.moveTo(c.width, 0);
-                    ctx.lineTo(0, c.height);
-                    ctx.stroke();	
-                };
+                ctx.stroke();
             }
         });
     }
@@ -101,10 +88,13 @@ $(document).ready(function () {
         githubReadme(repo.url, (data) => { addPicture(data, repo.name); });
     }
 
+    // Populate the projects section with cards from a list of projects
     $('#cardsContainer').empty();
     ['junshern/Polygraphy', 'junshern/Pyano', 'junshern/RainCatcher', 'junshern/sliced', 
         'junshern/Sensorium', 'JornVoegtli/BCI', 'junshern/Present', 'junshern/embedded-systems', 
-        'junshern/junshern.github.io', 'aaronlws95/hlp-project-2017'].forEach((x) => {
+        'junshern/junshern.github.io', 'aaronlws95/hlp-project-2017', 'junshern/midi-visualizer',
+        'junshern/spotify_alarm_clock', 'junshern/tabletop', 'junshern/Noon'
+    ].forEach((x) => {
         githubRepo(x, addCard);
     });
     
