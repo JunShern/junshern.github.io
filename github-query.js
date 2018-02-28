@@ -93,7 +93,7 @@ $(document).ready(function () {
     ['junshern/Polygraphy', 'junshern/Pyano', 'junshern/RainCatcher', 'junshern/sliced', 
         'junshern/Sensorium', 'JornVoegtli/BCI', 'junshern/Present', 'junshern/embedded-systems', 
         'junshern/junshern.github.io', 'aaronlws95/hlp-project-2017', 'junshern/midi-visualizer',
-        'junshern/spotify_alarm_clock', 'junshern/tabletop', 'junshern/Noon'
+        'junshern/spotify_alarm_clock', 'junshern/tabletop', 'junshern/Noon', 'junshern/radial-tree'
     ].forEach((x) => {
         githubRepo(x, addCard);
     });
