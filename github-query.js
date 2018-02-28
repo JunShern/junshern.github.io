@@ -65,7 +65,7 @@ $(document).ready(function () {
         const lastUpdated = new Date(repo.updated_at).toLocaleDateString();
 
         $('#cardsContainer').append(`
-            <div class = 'yellow card'>
+            <div class = 'card'>
                 <div id = ${repo.name} class='content' style='background-color:white; padding:0px'></div>
                 <div class="extra content">
                     <a class='header' style='color:rgb(60,60,60)' href='${repo.html_url}'>${repo.name}</a>
