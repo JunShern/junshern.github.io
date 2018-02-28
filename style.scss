@@ -122,11 +122,11 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $darkGray;
   background: $lightGray;
 }
 ::selection {
-  color: $black;
+  color: $darkGray;
   background: $lightGray;
 }
 
@@ -151,7 +151,7 @@ img {
 //
 
 .wrapper-masthead {
-  margin-bottom: 50px;
+  margin-bottom: 0px;
 }
 
 .masthead {
@@ -195,15 +195,22 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 300;
+  font-weight: bold;
   font-size: 28px;
-  letter-spacing: 1px;
+}
+#site-name {
+  margin: 0;
+  color: $darkGray;
+  cursor: pointer;
+  font-family: $helveticaNeue;
+  font-weight: bold;
+  font-size: 28px;
 }
 
 .site-description {
-  margin: -5px 0 0 0;
+  margin: -3px 0 0 0;
   color: $gray;
-  font-size: 16px;
+  font-size: 12px;
 
   @include mobile {
     margin: 3px 0;
@@ -306,6 +313,15 @@ footer {
   padding-bottom: 20px;
   margin-bottom: 50px;
 }
+
+iframe { 
+  border: none; 
+}
+
+#first_header {
+  margin-top: 0px;
+}
+
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
